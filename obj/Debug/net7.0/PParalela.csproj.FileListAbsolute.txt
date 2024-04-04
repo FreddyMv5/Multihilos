@@ -1,0 +1,15 @@
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\obj\Debug\net7.0\PParalela.csproj.AssemblyReference.cache
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\obj\Debug\net7.0\PParalela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\obj\Debug\net7.0\PParalela.AssemblyInfoInputs.cache
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\obj\Debug\net7.0\PParalela.AssemblyInfo.cs
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\obj\Debug\net7.0\PParalela.csproj.CoreCompileInputs.cache
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\bin\Debug\net7.0\PParalela.exe
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\bin\Debug\net7.0\PParalela.deps.json
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\bin\Debug\net7.0\PParalela.runtimeconfig.json
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\bin\Debug\net7.0\PParalela.dll
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\bin\Debug\net7.0\PParalela.pdb
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\obj\Debug\net7.0\PParalela.dll
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\obj\Debug\net7.0\refint\PParalela.dll
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\obj\Debug\net7.0\PParalela.pdb
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\obj\Debug\net7.0\PParalela.genruntimeconfig.cache
+C:\Users\fredd\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Desktop\PParalela\obj\Debug\net7.0\ref\PParalela.dll
